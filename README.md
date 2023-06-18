@@ -1,12 +1,13 @@
-LoanDynamics-SWIG: language bindings for Andrew-Davidson LoanDynamics Models
-============================================================================
+LoanDynamics-SWIG: language bindings for AD-Co LoanDynamics Models
+==================================================================
 
 ---
 
 LoanDynamics-SWIG provides the means to use LoanDynamics from a number of
 languages; currently their list includes Python, C#, and Java.
 
-LoanDynamics Model is required in order to compile the module.
+LoanDynamics Model is Copyrighted by Andrew-Davidson & Co. The software is 
+required in order to compile this module.
 
 
 Download and usage
